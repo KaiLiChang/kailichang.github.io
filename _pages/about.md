@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='https://www.iis.sinica.edu.tw/zh/index.html'>Institute of Information Science, Academia Sinica</a>.
+cv_pdf: example_pdf.pdf
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>128 Academia Road, Section 2, Nankang,</p>
+    <p>Taipei 115, Taiwan.</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi! I am an incoming PhD student at the [Genetics and Genomic program](https://www.bcm.edu/education/graduate-school-of-biomedical-sciences/programs/genetics-genomics) in [Baylor college of mdeidince](https://www.bcm.edu/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests include cancer epigenomics and machine learning with a focus on developing models/tools for gaining biological insights from omics data that facilitates cancer diagnosis and treatments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2021, I joined [the Institute of Information Science, Acadmeia Sinica](https://www.iis.sinica.edu.tw/zh/index.html) and developed a deep learning model for predicting extrachromosomal circular DNA, which was advised by [Huai-Kuang Tsai](https://homepage.iis.sinica.edu.tw/pages/hktsai/index_en.html). Previously, I did a remote internship at German Cancer Research Center (DKFZ) advised by [Pavlo Lutsik](https://www.dkfz.de/en/CanEpi/staff/Computational_epigenomics.html). During this internship, I developed a R package along with a web user interface for analysis of epignomics data from The Cancer Genome Atlas (TCGA). Before that, in my master's thesis, which was advised by [Shaw-Jenq Tsai](https://www.binfo.ncku.edu.tw/SJT_Lab_Web/index.html), I analyzed transcriptomic and epigenomic data to elucidate the role of histone modifications in colon cancer drug resistance. My undergraduate project advised by [Kuei-Yang Hsiao](https://kyhsiao.wixsite.com/lab-x-omics/pi) involves developing bioinformatics tools for identification and functional characterization of circular RNAs.
